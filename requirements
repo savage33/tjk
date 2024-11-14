@@ -1,1 +1,8 @@
-pip install -r requirements.txt
+pandas
+numpy
+scikit-learn
+tensorflow
+matplotlib
+seaborn
+openpyxl  # Required for reading Excel files
+
