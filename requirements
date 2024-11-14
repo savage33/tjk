@@ -1,8 +1,12 @@
 pandas
 numpy
+selenium
+keyboard
+pyautogui
+beautifulsoup4
 scikit-learn
 tensorflow
 matplotlib
 seaborn
-openpyxl  # Required for reading Excel files
+openpyxl
 
